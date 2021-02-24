@@ -6,7 +6,7 @@
 
 // Regular Function with Params
 function tanyaTetangga (nama, alamat) {
-    return "halo bang " + nama + " saya mau nanya, kalo " + alamat + "itu dimana ya ?" + "<br></br>"
+    return "halo bang " + nama + " saya mau nanya, kalo " + alamat + " itu dimana ya ?" + "<br></br>"
 }
 document.write(tanyaTetangga("Mansur", "Jalan Kenangan"))
 
