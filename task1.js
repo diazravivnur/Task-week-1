@@ -14,6 +14,5 @@ document.write(tanyaTetangga("Mansur", "Jalan Kenangan"))
 var perkalian
 perkalian = (a, b) => {
     return hasilKali = a * b
-    
 }
-document.write(perkalian(2,7))
+document.write("hasil perkalian dari a dan b adalah " + perkalian(2,7))
