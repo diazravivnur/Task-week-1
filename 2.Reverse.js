@@ -1,4 +1,9 @@
-var myArray = ['one', 'two', 'three'];
-myArray.reverse();
+// //A. Question
+// Buatlah sebuah function untuk membalikkan angka yang diinputkan.
+// - Input : 1234
+// - Output: 4321
 
-console.log(myArray) 
+function reverseAngka ([a, b, c, d]) {
+    return [d, c, b, a]
+}
+document.write(reverseAngka([1, 2, 3, 4]))
