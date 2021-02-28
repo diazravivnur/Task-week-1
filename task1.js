@@ -13,6 +13,6 @@ document.write(tanyaTetangga("Mansur", "Jalan Kenangan"))
 // Arrow Function with Params
 var perkalian
 perkalian = (a, b) => {
-    return hasilKali = a * b
+     hasilKali = a * b
 }
 document.write("hasil perkalian dari a dan b adalah " + perkalian(2,7))
